@@ -1,0 +1,18 @@
+2350
+235
+23.5
+3250 g
+325 g
+325000 g
+1.0 x 10^4 cm
+1.0 x 10^5 cm
+1.0 x 10^10 cm
+81000
+8100
+81.00
+using std::cout;
+using namespace cout;
+#include<cout>
+\
+3
+X

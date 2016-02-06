@@ -1,0 +1,6 @@
+How many centimeters are in 2.35 meters?
+How many grams are in 3.25 kg?
+How many centimeters are in a kilometer?
+9 x 900 = ?
+In c++ if you only needed to use cout, what would you write in the code instead of using namespace std;?
+One of these requires shift to be used in the keyboard.

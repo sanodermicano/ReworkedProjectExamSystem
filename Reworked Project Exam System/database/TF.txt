@@ -1,0 +1,16 @@
+In math, the solution of 0/10 is equal to 0.
+In math, the Tan of 90 degrees does not exist
+In math, the sine of 190 degrees gives a positive number.
+In c++ the integer variable takes 4 bytes from the memory.
+In c++ the short variable takes 2 bytes from the memory.
+In c++ we can write: char* ch_name = str_name; , given that str_name is a string.
+1+1=1
+textt
+x-7=0, then x=-7 .
+To drive a car you need to be over 30 years old.
+Chickens can fly.
+USB 3.0 is faster than USB 2.0.
+Edison invented the first voice recorder.
+coffee is great for health
+A person from Jordan is called "Jordanese".
+The keyboard is used to send an output to the user.
